@@ -1,0 +1,124 @@
+img.fotoperfil {
+    margin-left: 165px;
+    margin-top: 35px;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+}
+
+div#main-content {
+    display: flex;
+    width: 800px;
+    height: 600px;
+}
+
+body {
+    background-color: #F0EEEE;
+}
+
+h2 {
+    padding-left: 150px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 60px;
+}
+
+h1 {
+    padding-left: 85px;
+    margin-top: -11px;
+    font-size: 38px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 55px;
+}
+
+p {
+    padding-left: 110px;
+    font-size: 12px;
+    margin-top: -16px;
+    margin-bottom: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 75px;
+}
+
+.infoesq h3 {
+    margin-left: 100px;
+    background-color: #4F4F4F;
+    color: white;
+    margin-left: 150px;
+    text-align: center;
+    margin-right: 150px;
+    padding-bottom: 15px;
+    height: 30xp;
+    padding-top: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+img.infopersonal {
+    width: 250px;
+    margin-left: 125px;
+}
+
+img.idiomes {
+    width: 250px;
+    margin-left: 125px;
+}
+
+img.xs {
+    width: 200px;
+    margin-left: 150px;
+}
+
+img.hobbies {
+    width: 200px;
+    margin-left: 150px;
+}
+
+div#\ Esquerra {
+    background-color: #F2CECE;
+    padding-top: 1px;
+    margin-left: -8px;
+}
+
+.dreta {
+    margin-left: 51px;
+    margin-top: 102px;
+}
+
+.dreta h3 {
+    background-color: #4F4F4F;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color:  white;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: -97px;
+    padding-bottom: 15px;
+    padding-top: 12px;
+    
+}
+
+.dreta p {
+    font-size: 20px;
+    margin-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+    margin-left: 175px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+img.skills {
+    width: 600px;
+    margin-left: 96px;
+}
+
+div#frase {
+    margin-top: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: 20px;
+}
